@@ -1,4 +1,4 @@
-package com.example.skeleton_mobile
+package com.skeleton.skeleton_mobile
 
 import android.os.Bundle
 
