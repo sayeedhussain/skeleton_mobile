@@ -8,6 +8,14 @@
 .buildlog/
 .history
 .svn/
+.bundle/
+fastlane/
+vendor/
+
+Ruby related
+.ruby-version
+Gemfile
+Gemfile.lock
 
 # IntelliJ related
 *.iml
