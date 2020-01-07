@@ -9,7 +9,6 @@
 .history
 .svn/
 .bundle/
-fastlane/
 vendor/
 
 Ruby related
