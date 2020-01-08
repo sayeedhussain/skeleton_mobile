@@ -1,0 +1,6 @@
+app_identifier("com.example.skeletonMobile") # The bundle identifier of your app
+apple_id("sofia.tania@flightsafety.com") # Your Apple email address
+team_id("XRAWAXCYQF")
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
